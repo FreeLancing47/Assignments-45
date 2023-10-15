@@ -1,0 +1,1 @@
+console.warn("hello i am from batch 47 my teacher is Sir Jahanzaib");
